@@ -32,4 +32,4 @@ step 1. input the information!
 step 2. START DA BOT!!!1!! 
 (idk why this file exists...)
 
-UPD forgot about index file, like bruh create it in "SPAMMER_BY_WORMy" folder.
+UPD forgot about index folder, like bruh create it in "SPAMMER_BY_WORMy" folder.
