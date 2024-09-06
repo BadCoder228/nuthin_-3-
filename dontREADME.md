@@ -13,7 +13,7 @@ step 0. open config.json
 
 step 1. input the information!
 
-{
+    {
     
     "token": "ur bot token",
     
@@ -27,7 +27,7 @@ step 1. input the information!
     
     "tg_id": "ur tg id"
     
-}
+    }
 
 step 2. START DA BOT!!!1!! 
 (idk why this file exists...)
