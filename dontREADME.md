@@ -14,6 +14,7 @@ step 0. open config.json
 step 1. input the information!
 
 {
+    
     "token": "ur bot token",
     
     "path": "path do databases folder",
