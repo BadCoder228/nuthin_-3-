@@ -15,17 +15,17 @@ step 1. input the information!
 
     {
     
-    "token": "ur bot token",
+      "token": "ur bot token",
     
-    "path": "path do databases folder",
+      "path": "path do databases folder",
     
-    "path_to_index": "path to index folder",
+      "path_to_index": "path to index folder",
     
-    "atack": 0,          <-- dont touch dis.
+      "atack": 0,          <-- dont touch dis.
     
-    "url": "your tERMS oF uSE link",
+      "url": "your tERMS oF uSE link",
     
-    "tg_id": "ur tg id"
+      "tg_id": "ur tg id"
     
     }
 
