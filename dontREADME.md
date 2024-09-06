@@ -15,11 +15,17 @@ step 1. input the information!
 
 {
     "token": "ur bot token",
+    
     "path": "path do databases folder",
+    
     "path_to_index": "path to index folder",
+    
     "atack": 0,          <-- dont touch dis.
+    
     "url": "your tERMS oF uSE link",
+    
     "tg_id": "ur tg id"
+    
 }
 
 step 2. START DA BOT!!!1!! 
